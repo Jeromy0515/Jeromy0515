@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 [![ParkMinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeromy0515&show_icons=true&theme=dark)](https://github.com/Jeromy0515/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeromy0515&layout=compact&show_icons=true&theme=dark)](https://github.com/Jeromy0515/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{userid})
