@@ -1,5 +1,5 @@
 ### 😎
-
+<a href = "https://yoo11052.tistory.com/">My blog</a>
 <!--
 **Jeromy0515/Jeromy0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
