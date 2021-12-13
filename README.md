@@ -1,4 +1,4 @@
-### 😎
+### Hi there 👋
 
 <a href = "https://yoo11052.tistory.com/" style="text-decoration:none;">My blog</a>
    
