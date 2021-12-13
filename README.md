@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <p>I am MinJae Park who is intersted in AI</p>
-<br>
 <p>Now, I'm learning about Cloud</p>
 
 <a href = "https://yoo11052.tistory.com/" style="text-decoration:none;">My blog</a>
