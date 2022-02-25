@@ -4,7 +4,6 @@
 <p>- 📫 I'm currently learning about Cloud Computing</p>
 <p>- 🤔 I want to be a MLOps Engineer</p>
 
-<a href = "https://yoo11052.tistory.com/" style="text-decoration:none;">My blog</a>
    
 ## stats
    
