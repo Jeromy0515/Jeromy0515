@@ -7,7 +7,7 @@
    
 ## stats
    
-![ParkMinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeromy0515&show_icons=true&theme=dark)
+[![ParkMinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeromy0515&show_icons=true&theme=dark)](https://github.com/Jeromy0515/github-readme-stats)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeromy0515&layout=compact&show_icons=true&theme=dark)
