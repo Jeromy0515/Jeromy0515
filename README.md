@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeromy0515&layout=compact&show_icons=true&theme=dark)
 <br>
 
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo11052)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoo11052)](https://solved.ac/profile/yoo11052)
 
 <a href="https://opgc.me/#/users/jeromy0515" target="_blank"><img src="https://api.opgc.me/githubs/users/jeromy0515/tag/?border=normal" /></a>
 
