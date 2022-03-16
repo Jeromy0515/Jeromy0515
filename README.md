@@ -1,9 +1,13 @@
+
+<p align="center">
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeromy0515">
+<p>
+   
 ### Hi there 👋
 
 <p>- 😄 I'm MinJae Park who is intersted in AI and Web development from South Korea</p>
 <p>- 📫 I'm currently learning about Cloud Computing</p>
 <p>- 🤔 I want to be a MLOps Engineer</p>
-
    
 ## Stats
    
