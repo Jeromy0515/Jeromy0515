@@ -21,6 +21,7 @@
 
 <a href="https://opgc.me/#/users/jeromy0515" target="_blank"><img src="https://api.opgc.me/githubs/users/jeromy0515/tag/?border=normal" /></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jeromy0515&theme=onedark&title=MultiLanguage,Commits,Repositories,Followers,PullRequest)](https://github.com/Jeromy0515/github-profile-trophy)
 
 
 
