@@ -7,7 +7,7 @@
 
 <p>- 😄 I'm MinJae Park who is intersted in AI and Web development from South Korea</p>
 <p>- 📫 I'm currently learning about Cloud Computing</p>
-<p>- 🤔 I want to be a MLOps Engineer</p>
+<p>- 🤔 I want to be a Backend Developer</p>
    
 ## Stats
    
