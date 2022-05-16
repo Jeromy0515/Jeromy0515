@@ -46,7 +46,7 @@
 ### DevOps
 <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" /></span> -->
 
 ### Tools
 <span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" /></span>
