@@ -42,6 +42,7 @@
 ### Databases
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white" /></span>
 
 ### DevOps
 <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span> 
