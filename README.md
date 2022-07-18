@@ -17,7 +17,7 @@
 <!-- ![ParkMinJae's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeromy0515&layout=compact&theme=dark) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeromy0515&layout=compact&show_icons=true&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeromy0515&layout=compact&show_icons=true&theme=dark) -->
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Jeromy0515&layout=compact&theme=dark)
 
