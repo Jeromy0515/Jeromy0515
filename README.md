@@ -30,7 +30,7 @@
    <summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="trophy" style="vertical-align:top;" height="25"> Skills</b></summary>
    
    ### Languages
-   <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></span>
+   <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" /></span>
    <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /></span>
    <span><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" /></span>
 
