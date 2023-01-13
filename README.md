@@ -31,8 +31,8 @@
    
    ### Languages
    <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" /></span>
-   <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /></span>
    <span><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" /></span>
+   <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></span>
 
    ### Frameworks
    <span><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></span>
