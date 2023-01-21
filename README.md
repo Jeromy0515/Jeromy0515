@@ -13,7 +13,7 @@
 <details>
    <summary><b><img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" alt="trophy" style="vertical-align:top;" height="25"> Stats</b></summary>
    
-   ![ParkMinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeromy0515&show_icons=true&theme=dark)
+   ![ParkMinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeromy0515&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
    
    ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Jeromy0515&layout=compact&theme=dark)
 
