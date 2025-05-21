@@ -19,7 +19,7 @@
    <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" /></span>
    <span><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /></span>
    <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /></span>
-   <span><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white" /></span>
+   <!-- <span><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white" /></span> -->
 
    ### Frameworks
    <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" /></span>
